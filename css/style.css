@@ -1,0 +1,138 @@
+/* IMPOSTAZIONI GENERALI */
+html {font-size: 62.5%;}
+body { 
+    font-family: Open Sans;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    background-position: center center;
+}
+* {box-sizing: border-box;}
+hr {display: none;} /* Your styles here */
+
+
+
+header {
+    font-family: Montserrat (bold);
+    background: black;
+    text-align: center;
+    text-transform: uppercase;
+
+    margin-bottom: 1.5em;
+    padding: 2em 1.5em;
+    line-height: 1.65;
+}
+
+/* MAIN */
+main {
+    background-color: #fff;
+    
+   
+}
+section { 
+    background-color: #e3e3e3;
+    padding: 1em;
+    margin-bottom: 2em;
+    
+}
+.mainh1 {
+    text-align: center;
+    color: #25a2c3;
+    font-weight: bold;
+    line-height: 4;
+}
+.mainp{
+    text-align: center;
+    color: #5f6769;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.divmain{
+    text-align: center;
+    line-height: 1.5;
+    background-image: url('../images/banner.jpg');
+    padding: 1em ;
+}
+.button{
+    padding: 4px 20px;
+    background-color: #f04c2f;
+    border: 0;
+    color: white;
+    font-weight:bold;
+    margin: 30px;
+
+}
+.notebook{
+    margin: auto;
+    display: block;
+    width: 200px;
+    border-radius: 50%;
+    
+
+}
+.divmain2{
+    text-align: center;
+    line-height: 1.5;
+    padding: 1em ;
+    background-color:#f04c2f ;
+
+}
+.mainh1-2{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 5;
+    font-size: 1.7rem
+    
+}
+.mainp-2{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 0;
+
+}
+.mainp-2-mariorossi{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height:5;
+    font-size: 1.4rem
+    
+}
+.foto1{
+    margin: auto;
+    display: block;
+    width: 200px;
+    
+}
+.sottodivmain3{
+    text-align: center;
+    line-height: 1.5;
+     padding: 1.5em ;
+     border-style:solid;
+     border-color:#aca5a5;
+     border-width:2px;
+     margin: 2%;
+     
+}
+footer{
+    background-color:#25a2c3;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1;
+}
+.footerp{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 2;
+
+}
+.footerpie{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 2;
+    border-top: 0.3px solid white
+
+}
