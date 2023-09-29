@@ -1,4 +1,4 @@
-/* IMPOSTAZIONI GENERALI */
+
 html {font-size: 62.5%;}
 body { 
     font-family: Open Sans;
@@ -7,7 +7,7 @@ body {
     background-position: center center;
 }
 * {box-sizing: border-box;}
-hr {display: none;} /* Your styles here */
+hr {display: none;}
 
 
 
@@ -22,7 +22,7 @@ header {
     line-height: 1.65;
 }
 
-/* MAIN */
+
 main {
     background-color: #fff;
     
@@ -108,12 +108,13 @@ section {
 .sottodivmain3{
     text-align: center;
     line-height: 1.5;
-     padding: 1.5em ;
-     border-style:solid;
-     border-color:#aca5a5;
-     border-width:2px;
-     margin: 2%;
+    padding: 1.5em ;
+    border-style:solid;
+    border-color:#aca5a5;
+    border-width:2px;
+    margin: 2%;
      
+   
 }
 footer{
     background-color:#25a2c3;
